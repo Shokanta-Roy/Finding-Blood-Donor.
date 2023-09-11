@@ -1,0 +1,13 @@
+
+56 John Kenidi AB+  89456 YES
+101 Shokanta Roy O+  1753154252 No 
+101 Mushfique Jion B+  48651 YES
+506 Hassan Rupsha AB+  864513 NO
+454 Tashfia Tahsin AB-  98456123 YES
+65 Hamim Hossain B-  95612 NO
+101 Sourav Saha AB-  1753154252 NO
+98561 Habibi Wahid O+  895623 YES
+56 Abdul Mojid B+  8456 NO
+89456 Mohammad Mushfique Jion AB+  8946523 NO
+894562 mohammad mushfique jion B+  98456132 NO
+52 mushfique jion A+  4685132 NO
